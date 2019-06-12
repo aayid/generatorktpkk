@@ -17,7 +17,7 @@ echo ".::[ Generator NIK & KK ]::.\n\n";
 echo "Code By AAY_ID\n";
 echo "www.andreay.codes\n";
 echo "www.youtube.com/c/AAYID\n";
-echo "www.nstagram.com/aay_id\n\n";
+echo "www.instagram.com/aay_id\n\n";
 echo "No. KTP : ".$ktp."\n";
 echo "No. KK : ".$kk."\n";
 ?>
