@@ -7,6 +7,8 @@ Instagram : AAY_ID
 Code by AAY_ID
 www.andreay.codes
 
+$ pkg update
+$ pkg upgrade
 $ pkg install php
 $ pkg install git
 $ git clone https://github.com/aayid/generatorktpkk
